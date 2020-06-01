@@ -1,0 +1,6 @@
+os
+time
+playsound
+SpeechRecognition
+PyAudio
+gTTS

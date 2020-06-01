@@ -1,4 +1,4 @@
 playsound
 SpeechRecognition
 gTTS
-PyAudio
+pyaudio=0.2.7

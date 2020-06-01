@@ -1,4 +1,1 @@
-playsound
-SpeechRecognition
-gTTS
 PyAudio=0.2.7
